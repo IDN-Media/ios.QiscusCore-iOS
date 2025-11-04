@@ -1,21 +1,21 @@
 {
   "pins" : [
     {
-      "identity" : "cocoaasyncsocket",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/robbiehanson/CocoaAsyncSocket",
-      "state" : {
-        "revision" : "dbdc00669c1ced63b27c3c5f052ee4d28f10150c",
-        "version" : "7.6.5"
-      }
-    },
-    {
       "identity" : "cocoamqtt",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/emqx/CocoaMQTT.git",
       "state" : {
-        "revision" : "0586d0d9a2711b72d693c4ec88fc6bc23f65a60e",
-        "version" : "1.3.0-rc.2"
+        "revision" : "22b98acc75bdca77917a1093bd3e1b45ef6e9718",
+        "version" : "2.1.9"
+      }
+    },
+    {
+      "identity" : "mqttcocoaasyncsocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leeway1208/MqttCocoaAsyncSocket",
+      "state" : {
+        "revision" : "ce3e18607fd01079495f86ff6195d8a3ca469f73",
+        "version" : "1.0.8"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/qiscus/QiscusRealtime-iOS.git",
       "state" : {
-        "revision" : "2023f45ebcf220147b8e58a40208b199ff89f619",
-        "version" : "1.5.0-beta.3"
+        "revision" : "ae446200a1d5c3ab94f6e13dbaaca15d41703496",
+        "version" : "1.8.0"
       }
     },
     {
@@ -32,17 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/daltoniam/Starscream.git",
       "state" : {
-        "revision" : "e6b65c6d9077ea48b4a7bdda8994a1d3c6969c8d",
-        "version" : "3.1.1"
-      }
-    },
-    {
-      "identity" : "swift-nio-zlib-support",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-nio-zlib-support.git",
-      "state" : {
-        "revision" : "37760e9a52030bb9011972c5213c3350fa9d41fd",
-        "version" : "1.0.0"
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
       }
     },
     {
@@ -50,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
       "state" : {
-        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-        "version" : "5.0.1"
+        "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+        "version" : "5.0.2"
       }
     }
   ],
